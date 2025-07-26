@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="267.10775 19.725983 657.6143 401.40146" width="657.6143" height="401.40146">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 2.5 0 L -1.5 -1.5 L 0 0 L 0 0 L -1.5 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#ababab">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_57">
+        <a xl:href="https://www.imdb.com/name/nm0764314/">
+          <text transform="translate(272.10775 24.725983)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8526513e-20" y="16" xml:space="preserve">Pyarelal Santoshi</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(633.17975 30.742188)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8952838e-19" y="15" xml:space="preserve">Rajkumar Santoshi</tspan>
+        </text>
+      </g>
+      <g id="Line_55">
+        <line x1="408.94775" y1="35.535434" x2="623.78026" y2="38.799107" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_54">
+        <rect x="501.22444" y="25.182854" width="54.448" height="24.335999" fill="white"/>
+        <text transform="translate(506.22444 30.182854)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="15987212e-20" y="11" xml:space="preserve">father of</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <a xl:href="https://en.wikipedia.org/wiki/Sargam_(1950_film)">
+          <text transform="translate(469.61944 156.34493)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.224" y="16" xml:space="preserve">Sargam </tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="13.801" y="31.46411" xml:space="preserve">(1950)</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_44">
+        <line x1="355.28896" y1="49.190094" x2="471.63463" y2="148.48853" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_42">
+        <rect x="394.52495" y="93.46257" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(399.52495 98.46257)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="2309264e-19" y="11" xml:space="preserve">directed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <a xl:href="https://en.wikipedia.org/wiki/Rehana_(actress)">
+          <text transform="translate(364.2542 282.84766)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8739676e-19" y="16" xml:space="preserve">Rehana</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_33">
+        <line x1="406.67834" y1="277.84766" x2="477.92144" y2="199.42973" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <a xl:href="https://www.youtube.com/watch?v=dkxN0u_GZqI&amp;list=TLGGbqK1MQ63buMxNzA3MjAyNQ&amp;t=105s">
+          <rect x="647.6126" y="159.02693" width="277.10947" height="29.46411" fill="#ffff40"/>
+          <text transform="translate(652.6126 164.02693)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="18.338733" y="16" xml:space="preserve">Mombaasaa, Ho Raat Milan Ki</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_25">
+        <line x1="385.42166" y1="49.190094" x2="734.5717" y2="157.72087" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="518.341" y="85.69365" width="47.32" height="24.335999" fill="white"/>
+        <text transform="translate(523.341 90.69365)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Lyricist</tspan>
+        </text>
+      </g>
+      <g id="Line_23">
+        <line x1="537.86744" y1="173.75899" x2="608.8578" y2="173.75899" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_22">
+        <path d="M 335.4315 49.190094 C 331.9212 72.75913 327.2718 121.26838 338.2002 170 C 349.48628 220.3266 373.45807 253.37245 385.1506 267.14485" marker-end="url(#FilledArrow_Marker_2)" stroke="#ababab" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <rect x="307.2816" y="144.0576" width="56.452" height="24.335999" fill="white"/>
+        <text transform="translate(312.2816 149.0576)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5684342e-19" y="11" xml:space="preserve">crush on</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <a xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
+          <text transform="translate(633.17975 282.84766)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">C. Ramachandra</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_15">
+        <line x1="708.0798" y1="277.84766" x2="772.47485" y2="192.0107" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="657.76375" y="224.67134" width="108.112" height="24.335999" fill="white"/>
+        <text transform="translate(662.76375 229.67134)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="1.0559998" y="11" xml:space="preserve">Singer, Composer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <a xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+          <text transform="translate(816.8619 271.3868)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="30.664" y="16" xml:space="preserve">Lata  </tspan>
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="35.46411" xml:space="preserve">Mangeshkar</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_10">
+        <line x1="847.9519" y1="266.3868" x2="798.4355" y2="192.15147" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="801.3492" y="224.67134" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(806.3492 229.67134)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.673999" y="11" xml:space="preserve">Singer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="416.87954" y="226.07703" width="51.556" height="24.335999" fill="white"/>
+        <text transform="translate(421.87954 231.07703)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="24513724e-20" y="11" xml:space="preserve">Heroine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <a xl:href="https://en.wikipedia.org/wiki/Shambhu_Maharaj">
+          <text transform="translate(357.3784 377.1992)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="42632564e-21" y="16" xml:space="preserve">Shambhu</tspan>
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5.04" y="35.46411" xml:space="preserve">Maharaj</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_6">
+        <line x1="393.3276" y1="307.31177" x2="393.4649" y2="367.79923" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="338.2002" y="321.22145" width="115.816" height="24.335999" fill="white"/>
+        <text transform="translate(343.2002 326.22145)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">trained in Kathak by</tspan>
+        </text>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_4">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 642.9094 167.82161 C 642.6251 166.75962 641.7905 165.92506 640.7285 165.64078 C 638.8056 165.12502 631.09144 165.12502 631.09144 165.12502 C 631.09144 165.12502 623.37735 165.12502 621.4544 165.64078 C 620.3924 165.92506 619.55786 166.75962 619.2736 167.82161 C 618.7578 169.74455 618.7578 173.75899 618.7578 173.75899 C 618.7578 173.75899 618.7578 177.77344 619.2736 179.6964 C 619.55786 180.75838 620.3924 181.59294 621.4544 181.87717 C 623.37735 182.39296 631.09144 182.39296 631.09144 182.39296 C 631.09144 182.39296 638.8056 182.39296 640.7285 181.87717 C 641.7905 181.59294 642.6251 180.75838 642.9094 179.6964 C 643.42516 177.77344 643.42516 173.75899 643.42516 173.75899 C 643.42516 173.75899 643.4231 169.74455 642.9094 167.82161 Z" fill="red"/>
+          </a>
+        </g>
+        <g id="Graphic_3">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
+          </a>
+        </g>
+      </g>
+      <g id="Graphic_58">
+        <a xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
+          <text transform="translate(503.06775 281.11887)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Raj Kapoor</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_59">
+        <line x1="546.02775" y1="276.11887" x2="512.81366" y2="200.2041" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_60">
+        <rect x="511.0511" y="224.89278" width="35.776" height="24.335999" fill="white"/>
+        <text transform="translate(516.0511 229.89278)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="8295586e-19" y="11" xml:space="preserve">Hero</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
