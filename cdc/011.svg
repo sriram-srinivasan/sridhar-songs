@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="223.22788 19.03067 701.4942 391.06577" width="701.4942" height="391.06577">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 2.5 0 L -1.5 -1.5 L 0 0 L 0 0 L -1.5 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -5 0 L 3 3 L 0 0 L 0 0 L 3 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_57">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
+          <text transform="translate(377.8364 24.03067)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7247536e-19" y="16" xml:space="preserve">Guru Dutt</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_53">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Baazi_(1951_film)">
+          <text transform="translate(327.89894 156.34493)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Baazi</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="3.209" y="31.46411" xml:space="preserve">(1951)</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_44">
+        <line x1="408.08" y1="48.49478" x2="361.39347" y2="147.3662" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_37">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Geeta_Bali">
+          <text transform="translate(588.01956 281.11887)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="14.4565" y="16" xml:space="preserve">Geeta Bali</tspan>
+            <tspan font-family="Helvetica Neue" font-style="italic" font-size="13" fill="black" x="2842171e-20" y="31.46411" xml:space="preserve">née Harkirtan Kaur</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_33">
+        <line x1="667.6649" y1="276.11887" x2="765.7822" y2="191.36724" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=MF7EhAB0um8">
+          <rect x="647.6126" y="159.02693" width="277.10947" height="29.46411" fill="#ffff40"/>
+          <text transform="translate(652.6126 164.02693)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="52.794733" y="16" xml:space="preserve">Suno Gajar Kya Gaye</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_23">
+        <line x1="374.96294" y1="173.75899" x2="608.8578" y2="173.75899" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
+          <text transform="translate(804.5166 24.03067)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">S D Burman</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_15">
+        <line x1="843.4229" y1="48.49478" x2="794.7302" y2="155.02515" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="765.755" y="87.98499" width="108.112" height="24.335999" fill="white"/>
+        <text transform="translate(770.755 92.98499)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="19.392" y="11" xml:space="preserve"> Composer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+          <text transform="translate(623.7578 24.03067)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Geeta Roy</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_10">
+        <line x1="676.3743" y1="48.49478" x2="770.3546" y2="155.71804" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="691.8405" y="84.65604" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(696.8405 89.65604)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.673999" y="11" xml:space="preserve">Singer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="698.1869" y="221.46163" width="37.336" height="24.335999" fill="white"/>
+        <text transform="translate(703.1869 226.46163)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">actor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(583.91606 381.64844)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Shammi Kapoor</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="641.7161" y1="327.84698" x2="641.7161" y2="376.64844" marker-start="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="606.70406" y="338.29633" width="70.024" height="24.335999" fill="white"/>
+        <text transform="translate(611.70406 343.29633)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">husband of</tspan>
+        </text>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_4">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 642.9094 167.82161 C 642.6251 166.75962 641.7905 165.92506 640.7285 165.64078 C 638.8056 165.12502 631.09144 165.12502 631.09144 165.12502 C 631.09144 165.12502 623.37735 165.12502 621.4544 165.64078 C 620.3924 165.92506 619.55786 166.75962 619.2736 167.82161 C 618.7578 169.74455 618.7578 173.75899 618.7578 173.75899 C 618.7578 173.75899 618.7578 177.77344 619.2736 179.6964 C 619.55786 180.75838 620.3924 181.59294 621.4544 181.87717 C 623.37735 182.39296 631.09144 182.39296 631.09144 182.39296 C 631.09144 182.39296 638.8056 182.39296 640.7285 181.87717 C 641.7905 181.59294 642.6251 180.75838 642.9094 179.6964 C 643.42516 177.77344 643.42516 173.75899 643.42516 173.75899 C 643.42516 173.75899 643.4231 169.74455 642.9094 167.82161 Z" fill="red"/>
+          </a>
+        </g>
+        <g id="Graphic_3">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
+          </a>
+        </g>
+      </g>
+      <g id="Graphic_58">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
+          <text transform="translate(307.57894 272.27903)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7744916e-19" y="16" xml:space="preserve">Dev Anand</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_59">
+        <line x1="348.93094" y1="267.27903" x2="348.93094" y2="200.57304" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_60">
+        <rect x="319.70294" y="213.2037" width="58.456" height="38.671997" fill="white"/>
+        <text transform="translate(324.70294 218.2037)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="10.668" y="11" xml:space="preserve">hero,</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">producer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Sahir_Ludhianvi">
+          <text transform="translate(727.4953 281.11887)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="47606363e-20" y="16" xml:space="preserve">Sahir Ludhianvi</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_64">
+        <line x1="786.1673" y1="276.11887" x2="786.1673" y2="192.89104" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_65">
+        <rect x="358.24144" y="84.65604" width="85.576" height="38.671997" fill="white"/>
+        <text transform="translate(363.24144 89.65604)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="22.794" y="11" xml:space="preserve">writer</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4618528e-19" y="25.336" xml:space="preserve">debut director</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <rect x="764.2893" y="225.04794" width="43.756" height="24.335999" fill="white"/>
+        <text transform="translate(769.2893 230.04794)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="61106675e-20" y="11" xml:space="preserve">lyricist</tspan>
+        </text>
+      </g>
+      <g id="Line_72">
+        <line x1="457.2364" y1="33.762726" x2="618.7578" y2="33.762726" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_73">
+        <title>path4</title>
+        <path d="M 531.51136 29.56117 C 530.8111 28.394072 529.644 27.577103 528.2435 27.577103 C 526.2594 27.577103 524.7422 29.09433 524.7422 31.0784 C 524.7422 34.929825 526.84296 35.513374 531.51136 39.94835 C 536.17975 35.513374 538.28053 34.929825 538.28053 31.0784 C 538.28053 29.09433 536.7633 27.577103 534.77924 27.577103 C 533.3787 27.577103 532.2116 28.394072 531.51136 29.56117 Z" fill="#ff0707"/>
+      </g>
+      <g id="Graphic_79">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
+          <text transform="translate(228.22788 24.03067)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6679102e-19" y="15" xml:space="preserve">Balraj Sahni</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_80">
+        <line x1="278.7922" y1="47.47867" x2="334.34527" y2="147.49842" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_81">
+        <rect x="288.10997" y="88.08465" width="39.988" height="24.335999" fill="white"/>
+        <text transform="translate(293.10997 93.08465)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5968559e-19" y="11" xml:space="preserve">writer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(401.22006 386.64844)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Bharat Bhushan</tspan>
+        </text>
+      </g>
+      <g id="Line_83">
+        <line x1="599.57724" y1="320.94698" x2="489.3421" y2="379.58216" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_84">
+        <a target="_blank" xl:href="https://youtu.be/lJUiEKox6Rw?t=1305">
+          <rect x="513.84536" y="327.5837" width="70" height="40.696167" fill="white"/>
+          <text transform="translate(518.84536 332.5837)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="1.668" y="12" xml:space="preserve">hauled on </tspan>
+            <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="1.884" y="27.348083" xml:space="preserve">shoulders</tspan>
+          </text>
+        </a>
+      </g>
+    </g>
+  </g>
+</svg>
