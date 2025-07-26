@@ -160,14 +160,6 @@
       <g id="Line_67">
         <line x1="461.9644" y1="38.012726" x2="614.3578" y2="38.012726" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
-      <g id="Graphic_68">
-        <rect x="501.17456" y="11.508728" width="67.576" height="53.007996" fill="white"/>
-        <text transform="translate(506.17456 16.508728)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4654055e-19" y="11" xml:space="preserve">introduced</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.89" y="25.336" xml:space="preserve">in a tamil</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="12.792" y="39.671997" xml:space="preserve">movie</tspan>
-        </text>
-      </g>
       <g id="Graphic_69">
         <text transform="translate(115.82322 28.28067)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="14210855e-20" y="15" xml:space="preserve">Lalita Pawar</tspan>
@@ -180,6 +172,14 @@
         <rect x="248.84934" y="25.58163" width="52.456" height="24.335999" fill="white"/>
         <text transform="translate(253.84934 30.58163)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">slapped</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <rect x="503.3989" y="11.508728" width="78.432" height="53.007996" fill="white"/>
+        <text transform="translate(508.3989 16.508728)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5.4279996" y="11" xml:space="preserve">introduced </tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="10.318" y="25.336" xml:space="preserve">in a tamil </tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="18.22" y="39.671997" xml:space="preserve">movie</tspan>
         </text>
       </g>
     </g>
