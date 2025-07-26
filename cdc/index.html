@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interactive SVG Gallery</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background-color: #f2f2f2;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .svg-box {
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      position: relative;
+      height: auto;
+    }
+
+    .svg-label {
+      position: absolute;
+      top: 8px;
+      left: 12px;
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      font-size: 0.9rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      z-index: 10;
+    }
+
+    .svg-object {
+      width: 100%;
+      height: auto;
+      border: none;
+      display: block;
+      margin-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Interactive SVG Gallery</h1>
+
+  <div class="svg-box">
+    <div class="svg-label">001</div>
+    <object class="svg-object" type="image/svg+xml" data="001.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">002</div>
+    <object class="svg-object" type="image/svg+xml" data="002.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">003</div>
+    <object class="svg-object" type="image/svg+xml" data="003.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">004</div>
+    <object class="svg-object" type="image/svg+xml" data="004.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">005</div>
+    <object class="svg-object" type="image/svg+xml" data="005.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">006</div>
+    <object class="svg-object" type="image/svg+xml" data="006.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">007</div>
+    <object class="svg-object" type="image/svg+xml" data="007.svg"></object>
+  </div>
+  <div class="svg-box">
+    <div class="svg-label">008</div>
+    <object class="svg-object" type="image/svg+xml" data="008.svg"></object>
+  </div>
+
+</body>
+
+</html>

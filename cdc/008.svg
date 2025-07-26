@@ -14,7 +14,7 @@
       <title>Layer 1</title>
       <g id="Graphic_57">
         <title/>
-        <a xl:href="https://en.wikipedia.org/wiki/Mahesh_Kaul">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Mahesh_Kaul">
           <text transform="translate(235.36944 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Mahesh Kaul</tspan>
           </text>
@@ -22,7 +22,7 @@
       </g>
       <g id="Graphic_53">
         <title/>
-        <a xl:href="https://en.wikipedia.org/wiki/Naujawan_(1951_film)">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Naujawan_(1951_film)">
           <text transform="translate(247.06544 156.34493)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Naujawan</tspan>
             <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="20.105" y="31.46411" xml:space="preserve">(1951)</tspan>
@@ -34,7 +34,7 @@
       </g>
       <g id="Graphic_26">
         <title/>
-        <a xl:href="https://www.youtube.com/watch?v=cgwfvDh7cPc">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=cgwfvDh7cPc">
           <rect x="647.6126" y="159.02693" width="277.10947" height="29.46411" fill="#ffff40"/>
           <text transform="translate(652.6126 164.02693)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="89.71473" y="16" xml:space="preserve">O Pi Pi Piya</tspan>
@@ -45,7 +45,7 @@
         <line x1="618.7578" y1="173.75899" x2="332.32144" y2="173.75899" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_20">
-        <a xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
           <text transform="translate(804.5166 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">S D Burman</tspan>
           </text>
@@ -61,7 +61,7 @@
         </text>
       </g>
       <g id="Graphic_11">
-        <a xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
           <text transform="translate(620.4575 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.224" y="16" xml:space="preserve">Shamshad </tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="15.416" y="35.46411" xml:space="preserve">Begum</tspan>
@@ -79,19 +79,19 @@
       </g>
       <g id="Group_2">
         <g id="Graphic_4">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 642.9094 167.82161 C 642.6251 166.75962 641.7905 165.92506 640.7285 165.64078 C 638.8056 165.12502 631.09144 165.12502 631.09144 165.12502 C 631.09144 165.12502 623.37735 165.12502 621.4544 165.64078 C 620.3924 165.92506 619.55786 166.75962 619.2736 167.82161 C 618.7578 169.74455 618.7578 173.75899 618.7578 173.75899 C 618.7578 173.75899 618.7578 177.77344 619.2736 179.6964 C 619.55786 180.75838 620.3924 181.59294 621.4544 181.87717 C 623.37735 182.39296 631.09144 182.39296 631.09144 182.39296 C 631.09144 182.39296 638.8056 182.39296 640.7285 181.87717 C 641.7905 181.59294 642.6251 180.75838 642.9094 179.6964 C 643.42516 177.77344 643.42516 173.75899 643.42516 173.75899 C 643.42516 173.75899 643.4231 169.74455 642.9094 167.82161 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_3">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_58">
         <title/>
-        <a xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
           <text transform="translate(167.38444 285.5212)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="31974423e-20" y="16" xml:space="preserve">Prem Nath</tspan>
           </text>
@@ -107,7 +107,7 @@
         </text>
       </g>
       <g id="Graphic_63">
-        <a xl:href="https://en.wikipedia.org/wiki/Sahir_Ludhianvi">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Sahir_Ludhianvi">
           <text transform="translate(652.6126 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="47606363e-20" y="16" xml:space="preserve">Sahir Ludhianvi</tspan>
           </text>
@@ -129,7 +129,7 @@
         </text>
       </g>
       <g id="Graphic_74">
-        <a xl:href="https://en.wikipedia.org/wiki/Nalini_Jaywant">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Nalini_Jaywant">
           <text transform="translate(301.6236 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="10.4" y="16" xml:space="preserve">Nalini</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="35.46411" xml:space="preserve">Jaywant</tspan>
@@ -146,7 +146,7 @@
         </text>
       </g>
       <g id="Graphic_83">
-        <a xl:href="https://en.wikipedia.org/wiki/Kishore_Kumar">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Kishore_Kumar">
           <text transform="translate(751.4975 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.224" y="16" xml:space="preserve">Kishore </tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="6.08" y="35.46411" xml:space="preserve">Kumar</tspan>
@@ -160,7 +160,7 @@
         </text>
       </g>
       <g id="Graphic_85">
-        <a xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
           <text transform="translate(627.87115 370.87444)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Thandi Hawayen</tspan>
           </text>
@@ -176,7 +176,7 @@
         </text>
       </g>
       <g id="Graphic_88">
-        <a xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
           <text transform="translate(625.63116 467.22824)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Lata Mangeshkar</tspan>
           </text>
@@ -201,7 +201,7 @@
         </text>
       </g>
       <g id="Graphic_93">
-        <a xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
           <text transform="translate(860.6015 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Cuckoo</tspan>
           </text>
@@ -218,7 +218,7 @@
       </g>
       <g id="Graphic_96">
         <title/>
-        <a xl:href="https://www.imdb.com/name/nm0474826/">
+        <a target="_blank" xl:href="https://www.imdb.com/name/nm0474826/">
           <text transform="translate(965.8655 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Krishna</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="3.856" y="35.46411" xml:space="preserve">Kumar</tspan>

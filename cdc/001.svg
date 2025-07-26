@@ -29,7 +29,7 @@
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_2">
-        <a xl:href="https://www.imdb.com/name/nm0764314/">
+        <a target="_blank" xl:href="https://www.imdb.com/name/nm0764314/">
           <text transform="translate(272.10775 24.725983)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8526513e-20" y="16" xml:space="preserve">Pyarelal Santoshi</tspan>
           </text>
@@ -50,7 +50,7 @@
         </text>
       </g>
       <g id="Graphic_6">
-        <a xl:href="https://en.wikipedia.org/wiki/Shehnai_(1947_film)">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shehnai_(1947_film)">
           <text transform="translate(453.03316 154.29488)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="17.8" y="16" xml:space="preserve">Shehnai </tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="35.46411" xml:space="preserve">Aug 15, 1947</tspan>
@@ -129,7 +129,7 @@
         </text>
       </g>
       <g id="Graphic_28">
-        <a xl:href="https://en.wikipedia.org/wiki/Rehana_(actress)">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Rehana_(actress)">
           <text transform="translate(364.2542 282.84766)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8739676e-19" y="16" xml:space="preserve">Rehana</tspan>
           </text>
@@ -180,7 +180,7 @@
         </text>
       </g>
       <g id="Graphic_43">
-        <a xl:href="https://www.youtube.com/watch?v=sQBjn0sxLsM&amp;list=TLGGvFicC250EcUxMzA3MjAyNQ">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=sQBjn0sxLsM&amp;list=TLGGvFicC250EcUxMzA3MjAyNQ">
           <rect x="635.8905" y="158.17442" width="332.21215" height="29.46411" fill="#ffff40"/>
           <text transform="translate(640.8905 163.17442)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="6.706079" y="16" xml:space="preserve">Meri Jaan, Mari Jaan, Sunday ke Sunday</tspan>
@@ -209,7 +209,7 @@
         </text>
       </g>
       <g id="Graphic_49">
-        <a xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
           <text transform="translate(633.17975 282.84766)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">C. Ramachandra</tspan>
           </text>
@@ -274,7 +274,7 @@
         </text>
       </g>
       <g id="Graphic_62">
-        <a xl:href="https://en.wikipedia.org/wiki/Shambhu_Maharaj">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shambhu_Maharaj">
           <text transform="translate(357.3784 377.1992)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="42632564e-21" y="16" xml:space="preserve">Shambhu</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5.04" y="35.46411" xml:space="preserve">Maharaj</tspan>
@@ -292,12 +292,12 @@
       </g>
       <g id="Group_65">
         <g id="Graphic_67">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 642.9094 167.82161 C 642.6251 166.75962 641.7905 165.92506 640.7285 165.64078 C 638.8056 165.12502 631.09144 165.12502 631.09144 165.12502 C 631.09144 165.12502 623.37735 165.12502 621.4544 165.64078 C 620.3924 165.92506 619.55786 166.75962 619.2736 167.82161 C 618.7578 169.74455 618.7578 173.75899 618.7578 173.75899 C 618.7578 173.75899 618.7578 177.77344 619.2736 179.6964 C 619.55786 180.75838 620.3924 181.59294 621.4544 181.87717 C 623.37735 182.39296 631.09144 182.39296 631.09144 182.39296 C 631.09144 182.39296 638.8056 182.39296 640.7285 181.87717 C 641.7905 181.59294 642.6251 180.75838 642.9094 179.6964 C 643.42516 177.77344 643.42516 173.75899 643.42516 173.75899 C 643.42516 173.75899 643.4231 169.74455 642.9094 167.82161 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_66">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
           </a>
         </g>
