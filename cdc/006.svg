@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="126.82322 11.508728 815.8313 389.1385" width="815.8313" height="389.1385">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="110.82322 11.508728 831.8313 389.1385" width="831.8313" height="389.1385">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -18,44 +18,44 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
     <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_57">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Bhagwan_Dada">
-          <text transform="translate(357.1084 28.28067)" fill="black">
+          <text transform="translate(341.1084 28.28067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Bhagwan Dada</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_53">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Albela_(1951_film)">
-          <text transform="translate(391.3564 156.34493)" fill="black">
+          <text transform="translate(375.3564 156.34493)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="29132252e-20" y="16" xml:space="preserve">Albela</tspan>
             <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="5.857" y="31.46411" xml:space="preserve">(1951)</tspan>
           </text>
         </a>
       </g>
       <g id="Line_44">
-        <line x1="415.0364" y1="52.74478" x2="415.0364" y2="146.94493" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="399.0364" y1="52.74478" x2="399.0364" y2="146.94493" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_42">
-        <rect x="388.1424" y="87.40092" width="53.788" height="38.671997" fill="white"/>
-        <text transform="translate(393.1424 92.40092)" fill="black">
+        <rect x="372.1424" y="87.40092" width="53.788" height="38.671997" fill="white"/>
+        <text transform="translate(377.1424 92.40092)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="2309264e-19" y="11" xml:space="preserve">directed</tspan>
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="10.002" y="25.336" xml:space="preserve">hero</tspan>
         </text>
       </g>
       <g id="Graphic_37">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Geeta_Bali">
-          <text transform="translate(267.84716 282.84766)" fill="black">
+          <text transform="translate(251.84716 282.84766)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Geeta Bali</tspan>
           </text>
         </a>
       </g>
       <g id="Line_33">
-        <line x1="320.4713" y1="277.84766" x2="391.7144" y2="199.42973" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="304.4713" y1="277.84766" x2="375.7144" y2="199.42973" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_26">
         <a target="_blank" xl:href="https://www.youtube.com/watch?v=Cb2ef3cUrKU">
@@ -66,7 +66,7 @@
         </a>
       </g>
       <g id="Line_23">
-        <line x1="443.7164" y1="173.75899" x2="608.8578" y2="173.75899" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="427.7164" y1="173.75899" x2="608.8578" y2="173.75899" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_20">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
@@ -102,22 +102,22 @@
         </text>
       </g>
       <g id="Graphic_8">
-        <rect x="330.6725" y="226.07703" width="51.556" height="24.335999" fill="white"/>
-        <text transform="translate(335.6725 231.07703)" fill="black">
+        <rect x="314.6725" y="226.07703" width="51.556" height="24.335999" fill="white"/>
+        <text transform="translate(319.6725 231.07703)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="24513724e-20" y="11" xml:space="preserve">Heroine</tspan>
         </text>
       </g>
       <g id="Graphic_7">
-        <text transform="translate(249.52338 377.1992)" fill="black">
+        <text transform="translate(233.52338 377.1992)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Shammi Kapoor</tspan>
         </text>
       </g>
       <g id="Line_6">
-        <line x1="307.1416" y1="314.21175" x2="307.28757" y2="372.1992" marker-start="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="291.1416" y1="314.21175" x2="291.28757" y2="372.1992" marker-start="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_5">
-        <rect x="272.1988" y="329.52897" width="70.024" height="24.335999" fill="white"/>
-        <text transform="translate(277.1988 334.52897)" fill="black">
+        <rect x="256.1988" y="329.52896" width="70.024" height="24.335999" fill="white"/>
+        <text transform="translate(261.1988 334.52896)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">husband of</tspan>
         </text>
       </g>
@@ -135,17 +135,17 @@
       </g>
       <g id="Graphic_58">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
-          <text transform="translate(416.8607 281.11887)" fill="black">
+          <text transform="translate(400.8607 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Raj Kapoor</tspan>
           </text>
         </a>
       </g>
       <g id="Line_59">
-        <line x1="459.8207" y1="276.11887" x2="426.60663" y2="200.2041" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="443.8207" y1="276.11887" x2="410.60663" y2="200.2041" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_60">
-        <rect x="424.8441" y="224.89278" width="35.776" height="24.335999" fill="white"/>
-        <text transform="translate(429.8441 229.89278)" fill="black">
+        <rect x="408.8441" y="224.89278" width="35.776" height="24.335999" fill="white"/>
+        <text transform="translate(413.8441 229.89278)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="8295586e-19" y="11" xml:space="preserve">Hero</tspan>
         </text>
       </g>
@@ -161,8 +161,8 @@
         <line x1="786.1673" y1="266.3868" x2="786.1673" y2="192.89104" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_65">
-        <rect x="389.9284" y="87.40092" width="53.788" height="38.671997" fill="white"/>
-        <text transform="translate(394.9284 92.40092)" fill="black">
+        <rect x="373.9284" y="87.40092" width="53.788" height="38.671997" fill="white"/>
+        <text transform="translate(378.9284 92.40092)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="2309264e-19" y="11" xml:space="preserve">directed</tspan>
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="10.002" y="25.336" xml:space="preserve">hero</tspan>
         </text>
@@ -174,27 +174,27 @@
         </text>
       </g>
       <g id="Line_67">
-        <line x1="477.9644" y1="38.012726" x2="614.3578" y2="38.012726" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="461.9644" y1="38.012726" x2="614.3578" y2="38.012726" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_68">
-        <rect x="509.72546" y="11.508728" width="67.576" height="53.007996" fill="white"/>
-        <text transform="translate(514.72546 16.508728)" fill="black">
+        <rect x="501.17456" y="11.508728" width="67.576" height="53.007996" fill="white"/>
+        <text transform="translate(506.17456 16.508728)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4654055e-19" y="11" xml:space="preserve">introduced</tspan>
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.89" y="25.336" xml:space="preserve">in a tamil</tspan>
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="12.792" y="39.671997" xml:space="preserve">movie</tspan>
         </text>
       </g>
       <g id="Graphic_69">
-        <text transform="translate(131.82322 28.28067)" fill="black">
+        <text transform="translate(115.82322 28.28067)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="14210855e-20" y="15" xml:space="preserve">Lalita Pawar</tspan>
         </text>
       </g>
       <g id="Line_70">
-        <line x1="352.1084" y1="37.879165" x2="228.9032" y2="37.61767" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="336.1084" y1="37.879165" x2="212.9032" y2="37.61767" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_71">
-        <rect x="264.84934" y="25.58163" width="52.456" height="24.335999" fill="white"/>
-        <text transform="translate(269.84934 30.58163)" fill="black">
+        <rect x="248.84934" y="25.58163" width="52.456" height="24.335999" fill="white"/>
+        <text transform="translate(253.84934 30.58163)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">slapped</tspan>
         </text>
       </g>

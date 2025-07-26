@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="126.93051 -8.7603 782.5738 522.4951" width="782.5738" height="522.4951">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="126.93051 -8.7603 782.5738 522.4951" width="782.5738" height="522.4951">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -13,7 +13,7 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
     <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
@@ -26,8 +26,7 @@
         </a>
       </g>
       <g id="Graphic_3">
-        <title>Patanga
-(1949)</title>
+        <title>Song</title>
         <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
           <rect x="620.37165" y="214.8184" width="202.304" height="29.46411" fill="#ffff40"/>
           <text transform="translate(625.37165 219.8184)" fill="black">
@@ -49,17 +48,17 @@
       </g>
       <g id="Graphic_11">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/H._S._Rawail">
-          <text transform="translate(436.1398 88.4405)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">HS Rawail</tspan>
+          <text transform="translate(434.06777 88.4405)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">HS Rawail</tspan>
           </text>
         </a>
       </g>
       <g id="Line_13">
-        <line x1="473.0118" y1="111.8885" x2="420.23916" y2="203.8343" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="473.0118" y1="112.90461" x2="420.25676" y2="203.84445" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_14">
-        <rect x="418.96423" y="147.03016" width="53.788" height="24.335999" fill="white"/>
-        <text transform="translate(423.96423 152.03016)" fill="black">
+        <rect x="418.96423" y="147.54428" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(423.96423 152.54428)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="2309264e-19" y="11" xml:space="preserve">directed</tspan>
         </text>
       </g>
@@ -105,28 +104,26 @@
         </text>
       </g>
       <g id="Graphic_28">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/H._S._Rawail">
-          <text transform="translate(266.26433 79.2165)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.224" y="15" xml:space="preserve">Anjana </tspan>
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.984" y="33.448" xml:space="preserve">Rawail</tspan>
-          </text>
-        </a>
+        <text transform="translate(266.26433 79.2165)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.224" y="15" xml:space="preserve">Anjana </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.984" y="33.448" xml:space="preserve">Rawail</tspan>
+        </text>
       </g>
       <g id="Line_29">
-        <line x1="324.60833" y1="121.1125" x2="379.07213" y2="203.97355" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="292.93633" y1="121.1125" x2="342.66287" y2="203.87878" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_30">
-        <rect x="323.75323" y="148.56" width="53.788" height="24.335999" fill="white"/>
-        <text transform="translate(328.75323 153.56)" fill="black">
+        <rect x="289.8436" y="148.56" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(294.8436 153.56)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="8.789999" y="11" xml:space="preserve">story</tspan>
         </text>
       </g>
       <g id="Line_32">
-        <line x1="324.60833" y1="97.6645" x2="426.73977" y2="97.6645" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="324.60833" y1="97.6645" x2="424.6678" y2="98.15115" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_33">
-        <rect x="355.0945" y="85.4965" width="53.788" height="24.335999" fill="white"/>
-        <text transform="translate(360.0945 90.4965)" fill="black">
+        <rect x="353.9785" y="85.77015" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(358.9785 90.77015)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.121999" y="11" xml:space="preserve">wife of</tspan>
         </text>
       </g>
@@ -169,11 +166,11 @@
         </text>
       </g>
       <g id="Line_43">
-        <line x1="200.93051" y1="120.14801" x2="341.1687" y2="205.36548" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="194.9657" y1="121.1125" x2="341.41823" y2="231.76173" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_44">
-        <rect x="250.58305" y="146.18893" width="26.452" height="24.335999" fill="white"/>
-        <text transform="translate(255.58305 151.18893)" fill="black">
+        <rect x="247.22283" y="158.41895" width="26.452" height="24.335999" fill="white"/>
+        <text transform="translate(252.22283 163.41895)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5684342e-19" y="11" xml:space="preserve">AD</tspan>
         </text>
       </g>
@@ -312,12 +309,10 @@
         </text>
       </g>
       <g id="Graphic_74">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/H._S._Rawail">
-          <text transform="translate(356.5065 -3.7602995)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="3.24" y="15" xml:space="preserve">Rahul </tspan>
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1030287e-19" y="33.448" xml:space="preserve">Rawail</tspan>
-          </text>
-        </a>
+        <text transform="translate(356.5065 -3.7602995)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="3.24" y="15" xml:space="preserve">Rahul </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1030287e-19" y="33.448" xml:space="preserve">Rawail</tspan>
+        </text>
       </g>
       <g id="Line_75">
         <line x1="351.5065" y1="34.25907" x2="296.57106" y2="71.73683" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
