@@ -36,11 +36,9 @@
         <line x1="330.25516" y1="56.072746" x2="330.25516" y2="146.9215" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_37">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Geeta_Bali">
-          <text transform="translate(608.09025 274.3523)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Sybil</tspan>
-          </text>
-        </a>
+        <text transform="translate(608.09025 274.3523)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Sybil</tspan>
+        </text>
       </g>
       <g id="Line_33">
         <line x1="636.5186" y1="269.3523" x2="696.0925" y2="191.95434" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -136,11 +134,9 @@
         </text>
       </g>
       <g id="Graphic_85">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Alla_Rakha">
-          <text transform="translate(735.6157 -75.578705)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5968559e-19" y="15" xml:space="preserve">Zakir Hussain</tspan>
-          </text>
-        </a>
+        <text transform="translate(735.6157 -75.578705)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5968559e-19" y="15" xml:space="preserve">Zakir Hussain</tspan>
+        </text>
       </g>
       <g id="Line_86">
         <line x1="784.3597" y1="19.007233" x2="784.3597" y2="-47.730707" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="223.22788 19.03067 701.4942 391.06577" width="701.4942" height="391.06577">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="223.22788 19.03067 701.4942 386.06577" width="701.4942" height="386.06577">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -174,11 +174,9 @@
         <path d="M 531.51136 29.56117 C 530.8111 28.394072 529.644 27.577103 528.2435 27.577103 C 526.2594 27.577103 524.7422 29.09433 524.7422 31.0784 C 524.7422 34.929825 526.84296 35.513374 531.51136 39.94835 C 536.17975 35.513374 538.28053 34.929825 538.28053 31.0784 C 538.28053 29.09433 536.7633 27.577103 534.77924 27.577103 C 533.3787 27.577103 532.2116 28.394072 531.51136 29.56117 Z" fill="#ff0707"/>
       </g>
       <g id="Graphic_79">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
-          <text transform="translate(228.22788 24.03067)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6679102e-19" y="15" xml:space="preserve">Balraj Sahni</tspan>
-          </text>
-        </a>
+        <text transform="translate(228.22788 24.03067)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6679102e-19" y="15" xml:space="preserve">Balraj Sahni</tspan>
+        </text>
       </g>
       <g id="Line_80">
         <line x1="278.7922" y1="47.47867" x2="334.34527" y2="147.49842" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -190,17 +188,17 @@
         </text>
       </g>
       <g id="Graphic_82">
-        <text transform="translate(401.22006 386.64844)" fill="black">
+        <text transform="translate(401.22006 381.64844)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Bharat Bhushan</tspan>
         </text>
       </g>
       <g id="Line_83">
-        <line x1="599.57724" y1="320.94698" x2="489.3421" y2="379.58216" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="597.2955" y1="320.94698" x2="490.83367" y2="374.6663" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_84">
         <a target="_blank" xl:href="https://youtu.be/lJUiEKox6Rw?t=1305">
-          <rect x="513.84536" y="327.5837" width="70" height="40.696167" fill="white"/>
-          <text transform="translate(518.84536 332.5837)" fill="black">
+          <rect x="513.2217" y="325.36094" width="70" height="40.696167" fill="white"/>
+          <text transform="translate(518.2217 330.36094)" fill="black">
             <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="1.668" y="12" xml:space="preserve">hauled on </tspan>
             <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="1.884" y="27.348083" xml:space="preserve">shoulders</tspan>
           </text>

@@ -169,10 +169,12 @@
         <line x1="336.1084" y1="37.879165" x2="212.9032" y2="37.61767" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_71">
-        <rect x="248.84934" y="25.58163" width="52.456" height="24.335999" fill="white"/>
-        <text transform="translate(253.84934 30.58163)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">slapped</tspan>
-        </text>
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lalita_Pawar#:~:text=actor%20Master%20Bhagwan%20was%20to%20slap%20her%20hard">
+          <rect x="247.52334" y="25.075588" width="55.108" height="25.348083" fill="white"/>
+          <text transform="translate(252.52334 30.075588)" fill="black">
+            <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="8881784e-20" y="12" xml:space="preserve">slapped</tspan>
+          </text>
+        </a>
       </g>
       <g id="Graphic_77">
         <rect x="503.3989" y="11.508728" width="78.432" height="53.007996" fill="white"/>
