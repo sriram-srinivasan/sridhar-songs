@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="90.66503 -68.79297 896.5834 489.9204" width="896.5834" height="489.9204">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="90.66503 -68.79297 896.5834 501.17664" width="896.5834" height="501.17664">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
@@ -23,9 +23,9 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
     <title>Canvas 1</title>
-    <rect fill="white" x="90.66503" y="-68.79297" width="896.5834" height="489.9204"/>
+    <rect fill="white" x="90.66503" y="-68.79297" width="896.5834" height="501.17664"/>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_2">
@@ -157,12 +157,12 @@
         </text>
       </g>
       <g id="Graphic_38">
-        <text transform="translate(504.53175 377.1992)" fill="black">
+        <text transform="translate(504.53175 388.45544)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Dilip Kumar</tspan>
         </text>
       </g>
       <g id="Line_39">
-        <line x1="546.02775" y1="306.29565" x2="546.02775" y2="362.2992" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="546.02775" y1="306.29565" x2="546.02775" y2="373.55544" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_40">
         <line x1="540.6751" y1="277.84766" x2="514.1981" y2="207.48875" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -174,8 +174,8 @@
         </text>
       </g>
       <g id="Graphic_42">
-        <rect x="514.80175" y="321.22145" width="62.452" height="24.335999" fill="white"/>
-        <text transform="translate(519.80175 326.22145)" fill="black">
+        <rect x="514.80175" y="334.4037" width="62.452" height="24.335999" fill="white"/>
+        <text transform="translate(519.80175 339.4037)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5684342e-19" y="11" xml:space="preserve">brother of</tspan>
         </text>
       </g>
@@ -221,17 +221,17 @@
         </text>
       </g>
       <g id="Graphic_51">
-        <text transform="translate(902.5364 377.1992)" fill="black">
+        <text transform="translate(902.5364 388.45544)" fill="black">
           <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Mehmood</tspan>
         </text>
       </g>
       <g id="Line_52">
-        <line x1="941.8902" y1="304.56687" x2="939.8519" y2="362.3054" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="939.4499" y1="383.45544" x2="941.6302" y2="314.46193" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_53">
-        <rect x="913.6547" y="321.05202" width="54.448" height="24.335999" fill="white"/>
-        <text transform="translate(918.6547 326.05202)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="15987212e-20" y="11" xml:space="preserve">father of</tspan>
+        <rect x="917.2305" y="339.55985" width="46.444" height="24.335999" fill="white"/>
+        <text transform="translate(922.2305 344.55985)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="1.668" y="11" xml:space="preserve">son of </tspan>
         </text>
       </g>
       <g id="Line_54">
@@ -253,17 +253,19 @@
         </text>
       </g>
       <g id="Graphic_58">
-        <text transform="translate(791.5974 281.11887)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.224" y="15" xml:space="preserve">Meena </tspan>
-          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".304" y="33.448" xml:space="preserve">Kapoor</tspan>
-        </text>
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Meena_Kapoor">
+          <text transform="translate(775.69325 282.84766)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.368" y="16" xml:space="preserve">Meena </tspan>
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2344791e-19" y="35.46411" xml:space="preserve">Kapoor</tspan>
+          </text>
+        </a>
       </g>
       <g id="Line_59">
-        <line x1="815.1396" y1="276.11887" x2="805.1231" y2="197.45923" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="803.4893" y1="277.84766" x2="802.347" y2="197.53753" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_60">
-        <rect x="783.9718" y="230.38845" width="53.788" height="24.335999" fill="white"/>
-        <text transform="translate(788.9718 235.38845)" fill="black">
+        <rect x="776.1086" y="231.46147" width="53.788" height="24.335999" fill="white"/>
+        <text transform="translate(781.1086 236.46147)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.673999" y="11" xml:space="preserve">Singer</tspan>
         </text>
       </g>
@@ -275,18 +277,18 @@
       </g>
       <g id="Graphic_62">
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shambhu_Maharaj">
-          <text transform="translate(357.3784 377.1992)" fill="black">
+          <text transform="translate(357.3784 388.45544)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="42632564e-21" y="16" xml:space="preserve">Shambhu</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5.04" y="35.46411" xml:space="preserve">Maharaj</tspan>
           </text>
         </a>
       </g>
       <g id="Line_63">
-        <line x1="393.3276" y1="307.31177" x2="393.4649" y2="367.79923" marker-end="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="393.32436" y1="307.31177" x2="393.4713" y2="379.05545" marker-end="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_64">
-        <rect x="338.2002" y="321.22145" width="115.816" height="24.335999" fill="white"/>
-        <text transform="translate(343.2002 326.22145)" fill="black">
+        <rect x="335.481" y="326.70358" width="115.816" height="24.335999" fill="white"/>
+        <text transform="translate(340.481 331.70358)" fill="black">
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">trained in Kathak by</tspan>
         </text>
       </g>
@@ -301,6 +303,23 @@
             <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
           </a>
         </g>
+      </g>
+      <g id="Graphic_68">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Meena_Kapoor">
+          <text transform="translate(777.3866 388.45544)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="12.432" y="15" xml:space="preserve">Anil </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448" xml:space="preserve">Biswas</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_69">
+        <line x1="803.1897" y1="383.45544" x2="803.6069" y2="331.17574" marker-end="url(#SharpArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_70">
+        <rect x="768.4156" y="341.4706" width="70.024" height="24.335999" fill="white"/>
+        <text transform="translate(773.4156 346.4706)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">husband of</tspan>
+        </text>
       </g>
     </g>
   </g>
