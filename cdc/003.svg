@@ -52,11 +52,11 @@
         <line x1="426.0115" y1="122.52118" x2="426.0115" y2="219.0107" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_56">
-        <rect x="369.1115" y="137.34962" width="113.8" height="53.007996" fill="white"/>
-        <text transform="translate(374.1115 142.34962)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="38.34" y="11" xml:space="preserve">hero,</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">director &amp; producer</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="27.108" y="39.671997" xml:space="preserve">at age 25</tspan>
+        <rect x="358.15887" y="137.34962" width="135.70525" height="53.007996" fill="white"/>
+        <text transform="translate(363.15887 142.34962)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="49.292623" y="11" xml:space="preserve">hero,</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="10.952623" y="25.336" xml:space="preserve">director &amp; producer</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="38.060623" y="39.671997" xml:space="preserve">at age 25</tspan>
         </text>
       </g>
       <g id="Graphic_55">
@@ -258,9 +258,10 @@
         <line x1="957.6293" y1="137.15043" x2="868.5473" y2="230.44546" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_99">
-        <rect x="882.2189" y="160.10702" width="83.744" height="24.335999" fill="white"/>
-        <text transform="translate(887.2189 165.10702)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="9.986002" y="11" xml:space="preserve">composer</tspan>
+        <rect x="882.2189" y="152.93902" width="83.744" height="38.671997" fill="white"/>
+        <text transform="translate(887.2189 157.93902)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5.4320016" y="11" xml:space="preserve">composers,</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="9.320002" y="25.336" xml:space="preserve">first movie</tspan>
         </text>
       </g>
       <g id="Graphic_100">
