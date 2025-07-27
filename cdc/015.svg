@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-114.06921 -14.903601 936.2381 372.25636" width="936.2381" height="372.25636">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-113.22175 -14.903601 935.3906 372.25636" width="935.3906" height="372.25636">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -203,15 +203,15 @@
         </text>
       </g>
       <g id="Graphic_139">
-        <text transform="translate(212.6088 -9.903601)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="58264504e-20" y="15" xml:space="preserve">Rahul Rawail</tspan>
+        <text transform="translate(218.4038 -9.903601)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="14" fill="black" x="5115908e-19" y="13" xml:space="preserve">Rahul Rawail</tspan>
         </text>
       </g>
       <g id="Line_140">
-        <line x1="258.9688" y1="13.544397" x2="152.4168" y2="72.64957" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="258.9688" y1="11.488397" x2="152.4168" y2="72.64957" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_141">
-        <line x1="258.9688" y1="13.544397" x2="357.60662" y2="71.78318" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="258.9688" y1="11.488397" x2="357.60662" y2="71.78318" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_142">
         <rect x="237.9161" y="13.544397" width="48.892" height="24.335999" fill="white"/>
@@ -239,28 +239,46 @@
           <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="9.435999" y="11" xml:space="preserve">hero</tspan>
         </text>
       </g>
-      <g id="Graphic_148">
-        <text transform="translate(-109.06921 39.443715)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="9.035" y="12" xml:space="preserve">Patanga</tspan>
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="20.111" y="27.364" xml:space="preserve">Saqi</tspan>
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="1.5795" y="42.727997" xml:space="preserve">Teer andaz</tspan>
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="9.035" y="58.091995" xml:space="preserve">Shagufa</tspan>
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="1.6835" y="73.45599" xml:space="preserve">Sunghursh</tspan>
-          <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="7887024e-19" y="88.81999" xml:space="preserve">Laila Majnu</tspan>
-        </text>
-      </g>
-      <g id="Line_149">
-        <line x1="93.21679" y1="87.38163" x2="-37.84721" y2="85.53571" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      </g>
       <g id="Line_150">
-        <line x1="93.21679" y1="87.38163" x2="-37.84721" y2="85.53571" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="93.21679" y1="87.38163" x2="-16.068956" y2="87.38163" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_151">
-        <rect x="-10.170651" y="60.01124" width="83.744" height="53.007996" fill="white"/>
-        <text transform="translate(-5.170651 65.01124)" fill="black">
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="20.762002" y="11" xml:space="preserve">writer,</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="13.760002" y="25.336" xml:space="preserve">costume</tspan>
-          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="13.874002" y="39.671997" xml:space="preserve">designer</tspan>
+        <rect x="9.34715" y="68.04563" width="68.08" height="38.671997" fill="white"/>
+        <text transform="translate(14.34715 73.04563)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5.928001" y="11" xml:space="preserve">costume</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="6.042001" y="25.336" xml:space="preserve">designer</tspan>
+        </text>
+      </g>
+      <g id="Group_158">
+        <g id="Graphic_148">
+          <text transform="translate(-108.22175 45.197505)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="19.500397" y="12" xml:space="preserve">Patanga</tspan>
+          </text>
+        </g>
+        <g id="Graphic_152">
+          <text transform="translate(-108.22175 62.44857)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="30.576397" y="12" xml:space="preserve">Saqi</tspan>
+          </text>
+        </g>
+        <g id="Graphic_153">
+          <text transform="translate(-108.22175 79.69963)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="12.044897" y="12" xml:space="preserve">Teer andaz</tspan>
+          </text>
+        </g>
+        <g id="Graphic_154">
+          <text transform="translate(-108.22175 96.95069)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="12.148897" y="12" xml:space="preserve">Sunghursh</tspan>
+          </text>
+        </g>
+        <g id="Graphic_155">
+          <text transform="translate(-108.22175 114.20175)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="10.465397" y="12" xml:space="preserve">Laila Majnu</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_157">
+        <text transform="translate(14.34715 58.332326)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="14.046001" y="11" xml:space="preserve">writer</tspan>
         </text>
       </g>
     </g>
