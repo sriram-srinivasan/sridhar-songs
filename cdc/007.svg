@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="223.22788 19.03067 701.4942 386.06577" width="701.4942" height="386.06577">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="223.22788 19.03067 701.4942 386.06577" width="701.4942" height="386.06577">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -18,12 +18,11 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
 
     <g id="Canvas_1_Layer_1">
 
       <g id="Graphic_57">
-        <title/>
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
           <text transform="translate(377.8364 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7247536e-19" y="16" xml:space="preserve">Guru Dutt</tspan>
@@ -31,7 +30,6 @@
         </a>
       </g>
       <g id="Graphic_53">
-        <title/>
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Baazi_(1951_film)">
           <text transform="translate(394.0044 156.34493)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Baazi</tspan>
@@ -53,7 +51,6 @@
         <line x1="659.8904" y1="276.11887" x2="764.57495" y2="191.26173" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_26">
-        <title/>
         <a target="_blank" xl:href="https://www.youtube.com/watch?v=cgwfvDh7cPc">
           <rect x="647.6126" y="159.02693" width="277.10947" height="29.46411" fill="#ffff40"/>
           <text transform="translate(652.6126 164.02693)" fill="black">
@@ -129,7 +126,6 @@
         </g>
       </g>
       <g id="Graphic_58">
-        <title/>
         <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
           <text transform="translate(296.78513 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7744916e-19" y="16" xml:space="preserve">Dev Anand</tspan>
@@ -177,7 +173,7 @@
         <path d="M 531.51136 29.56117 C 530.8111 28.394072 529.644 27.577103 528.2435 27.577103 C 526.2594 27.577103 524.7422 29.09433 524.7422 31.0784 C 524.7422 34.929825 526.84296 35.513374 531.51136 39.94835 C 536.17975 35.513374 538.28053 34.929825 538.28053 31.0784 C 538.28053 29.09433 536.7633 27.577103 534.77924 27.577103 C 533.3787 27.577103 532.2116 28.394072 531.51136 29.56117 Z" fill="#ff0707"/>
       </g>
       <g id="Graphic_74">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Kalpana_Kartik">
           <text transform="translate(476.01 271.3868)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Kalpana</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8.296" y="35.46411" xml:space="preserve">Kartik</tspan>
