@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-84.65328 8.479889 962.7379 347.85785" width="962.7379" height="347.85785">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-84.65328 8.479889 962.7379 347.85785" width="962.7379" height="347.85785">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -8,19 +8,19 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
-
+  <g id="Canvas_1" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
-
+      <title>Layer 1</title>
       <g id="Graphic_57">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
+        <a xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
           <text transform="translate(444.09386 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Raj Kapoor</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_53">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Awaara">
+        <a xl:href="https://en.wikipedia.org/wiki/Awaara">
           <text transform="translate(353.38765 156.34493)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="781597e-18" y="16" xml:space="preserve">Awaara</tspan>
             <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="10.913" y="31.46411" xml:space="preserve">(1951)</tspan>
@@ -31,7 +31,7 @@
         <line x1="476.01187" y1="48.49478" x2="401.5624" y2="147.82412" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_26">
-        <a target="_blank" xl:href="https://www.youtube.com/watch?v=3VH6PVJCcz8">
+        <a xl:href="https://www.youtube.com/watch?v=3VH6PVJCcz8">
           <rect x="600.9751" y="149.29488" width="277.10947" height="48.92822" fill="#ffff40"/>
           <text transform="translate(605.9751 154.29488)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="88.36273" y="16" xml:space="preserve">Ek Do Teen,  </tspan>
@@ -43,7 +43,7 @@
         <line x1="571.7578" y1="173.75899" x2="420.25965" y2="173.75899" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_20">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
+        <a xl:href="https://en.wikipedia.org/wiki/Shankar%E2%80%93Jaikishan">
           <text transform="translate(733.2286 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Shankar Jaikishen</tspan>
           </text>
@@ -59,7 +59,7 @@
         </text>
       </g>
       <g id="Graphic_11">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
+        <a xl:href="https://en.wikipedia.org/wiki/Shamshad_Begum">
           <text transform="translate(632.7166 267.8105)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.224" y="16" xml:space="preserve">Shamshad </tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="15.416" y="35.46411" xml:space="preserve">Begum</tspan>
@@ -77,18 +77,18 @@
       </g>
       <g id="Group_2">
         <g id="Graphic_4">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 595.90936 167.82161 C 595.6251 166.75962 594.7905 165.92506 593.7285 165.64078 C 591.80564 165.12502 584.09144 165.12502 584.09144 165.12502 C 584.09144 165.12502 576.37735 165.12502 574.4544 165.64078 C 573.3924 165.92506 572.55786 166.75962 572.2736 167.82161 C 571.7578 169.74455 571.7578 173.75899 571.7578 173.75899 C 571.7578 173.75899 571.7578 177.77344 572.2736 179.6964 C 572.55786 180.75838 573.3924 181.59294 574.4544 181.87717 C 576.37735 182.39296 584.09144 182.39296 584.09144 182.39296 C 584.09144 182.39296 591.80564 182.39296 593.7285 181.87717 C 594.7905 181.59294 595.6251 180.75838 595.90936 179.6964 C 596.42516 177.77344 596.42516 173.75899 596.42516 173.75899 C 596.42516 173.75899 596.4231 169.74455 595.90936 167.82161 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_3">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 581.6224 177.459 L 588.03086 173.75933 L 581.6224 170.05962 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_63">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(610.8126 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Hasrat Jaipuri</tspan>
           </text>
@@ -111,7 +111,7 @@
         </text>
       </g>
       <g id="Graphic_74">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Nargis">
+        <a xl:href="https://en.wikipedia.org/wiki/Nargis">
           <text transform="translate(462.39786 277.54256)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8597567e-19" y="16" xml:space="preserve">Nargis</tspan>
           </text>
@@ -133,7 +133,7 @@
         </text>
       </g>
       <g id="Graphic_93">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
+        <a xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
           <text transform="translate(773.5246 269.86153)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Cuckoo</tspan>
           </text>
@@ -149,7 +149,7 @@
         </text>
       </g>
       <g id="Graphic_110">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
+        <a xl:href="https://en.wikipedia.org/wiki/Khwaja_Ahmad_Abbas">
           <text transform="translate(61.52618 164.02693)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">K A Abbas</tspan>
           </text>
@@ -221,7 +221,7 @@
         </text>
       </g>
       <g id="Graphic_131">
-        <a target="_blank" xl:href="https://web.archive.org/web/20131026013247/http://www.outlookindia.com/article.aspx?265339">
+        <a xl:href="https://web.archive.org/web/20131026013247/http://www.outlookindia.com/article.aspx?265339">
           <text transform="translate(133.76897 60.33744)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="black" x="9237056e-20" y="13" xml:space="preserve">The Last Page</tspan>
           </text>

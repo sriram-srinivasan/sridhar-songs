@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="148.18528 88.2222 878.2514 368.77574" width="878.2514" height="368.77574">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="148.18528 88.2222 878.2514 368.77574" width="878.2514" height="368.77574">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -8,12 +8,12 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
-
+  <g id="Canvas_1" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
-
+      <title>Layer 1</title>
       <g id="Graphic_64">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Barsaat_(1949_film)">
+        <a xl:href="https://en.wikipedia.org/wiki/Barsaat_(1949_film)">
           <text transform="translate(396.3795 228.4107)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Barsaat</tspan>
             <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="15.922" y="29.46411" xml:space="preserve">(1949)</tspan>
@@ -22,7 +22,7 @@
       </g>
       <g id="Graphic_63">
         <title>Tirchi Nazar Hai</title>
-        <a target="_blank" xl:href="https://www.youtube.com/watch?v=cPhjCfvnDTo">
+        <a xl:href="https://www.youtube.com/watch?v=cPhjCfvnDTo">
           <rect x="731.8161" y="233.62775" width="248.8" height="19.464111" fill="yellow"/>
           <text transform="translate(731.8161 233.62775)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Tirchi Nazar Hai, Patli Kamar Hai</tspan>
@@ -31,18 +31,18 @@
       </g>
       <g id="Group_60">
         <g id="Graphic_62">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 728.1836 238.5205 C 727.835 237.45852 726.8114 236.62396 725.5091 236.33968 C 723.15095 235.82392 713.6906 235.82392 713.6906 235.82392 C 713.6906 235.82392 704.2304 235.82392 701.8722 236.33968 C 700.5698 236.62396 699.54634 237.45852 699.1977 238.5205 C 698.5652 240.44345 698.5652 244.4579 698.5652 244.4579 C 698.5652 244.4579 698.5652 248.47234 699.1977 250.3953 C 699.54634 251.45728 700.5698 252.29184 701.8722 252.57607 C 704.2304 253.09186 713.6906 253.09186 713.6906 253.09186 C 713.6906 253.09186 723.15095 253.09186 725.5091 252.57607 C 726.8114 252.29184 727.835 251.45728 728.1836 250.3953 C 728.8161 248.47234 728.8161 244.4579 728.8161 244.4579 C 728.8161 244.4579 728.8136 240.44345 728.1836 238.5205 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_61">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 710.6627 248.1579 L 718.5217 244.45823 L 710.6627 240.75852 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_58">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
+        <a xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
           <text transform="translate(383.0515 98.05706)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Raj Kapoor</tspan>
           </text>
@@ -60,7 +60,7 @@
         </text>
       </g>
       <g id="Graphic_55">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Nargis">
+        <a xl:href="https://en.wikipedia.org/wiki/Nargis">
           <text transform="translate(541.1524 98.05706)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8597567e-19" y="16" xml:space="preserve">Nargis</tspan>
           </text>
@@ -76,14 +76,14 @@
         </text>
       </g>
       <g id="Graphic_22">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shailendra_(lyricist)">
+        <a xl:href="https://en.wikipedia.org/wiki/Shailendra_(lyricist)">
           <text transform="translate(694.5652 338.72922)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7460699e-19" y="16" xml:space="preserve">Shailendra</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_21">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Mukesh_(singer)">
+        <a xl:href="https://en.wikipedia.org/wiki/Mukesh_(singer)">
           <text transform="translate(826.5841 102.95426)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="15987212e-20" y="16" xml:space="preserve">Mukesh</tspan>
           </text>
@@ -108,7 +108,7 @@
         </text>
       </g>
       <g id="Graphic_66">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+        <a xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
           <text transform="translate(668.7732 102.95426)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="21316282e-20" y="16" xml:space="preserve">Lata Mangeshkar</tspan>
           </text>
@@ -124,7 +124,8 @@
         </text>
       </g>
       <g id="Graphic_69">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Raj_Kapoor">
+        <title/>
+        <a xl:href="https://en.wikipedia.org/wiki/S._M._Pandit">
           <text transform="translate(153.18528 235.68576)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="12" fill="black" x="40500936e-20" y="12" xml:space="preserve">S M Pandit</tspan>
           </text>
@@ -134,21 +135,21 @@
         <line x1="220.18928" y1="243.3598" x2="386.97956" y2="244.25904" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_72">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(212.52146 436.64986)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="12" fill="black" x="0" y="12" xml:space="preserve">Hasrat Jaipuri</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_73">
-        <a target="_blank" xl:href="https://www.saregama.com/artist/jalal-malihabadi_15901/songs">
+        <a xl:href="https://www.saregama.com/artist/jalal-malihabadi_15901/songs">
           <text transform="translate(379.7155 436.64986)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="12" fill="black" x="27711167e-20" y="12" xml:space="preserve">Jalal Malihabadi</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_74">
-        <a target="_blank" xl:href="https://shankarjaikishan.wordpress.com/2016/05/02/ramesh-shastry-the-lyricist-of-hawa-mein-udta-jaye-in-barsaat/">
+        <a xl:href="https://shankarjaikishan.wordpress.com/2016/05/02/ramesh-shastry-the-lyricist-of-hawa-mein-udta-jaye-in-barsaat/">
           <text transform="translate(545.73344 436.64986)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="12" fill="black" x="3410605e-19" y="12" xml:space="preserve">Ramesh Shastri</tspan>
           </text>
@@ -158,7 +159,7 @@
         <line x1="252.62546" y1="431.64986" x2="252.62546" y2="376.8012" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_77">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(200.28146 338.72922)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6.456" y="11" xml:space="preserve">Jiya Beqarar Hai,</tspan>
             <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">Chhod Gaye Balam</tspan>
@@ -166,14 +167,14 @@
         </a>
       </g>
       <g id="Graphic_78">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(371.9995 345.89722)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">O Mujhe Kisise Pyar</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_79">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(531.94544 345.89722)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="8100187e-19" y="11" xml:space="preserve">Hawa Mein Udta Jaye</tspan>
           </text>
@@ -247,7 +248,7 @@
         </text>
       </g>
       <g id="Graphic_97">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shankar%E2%80%93Jaikishan">
+        <a xl:href="https://en.wikipedia.org/wiki/Shankar%E2%80%93Jaikishan">
           <text transform="translate(944.8527 93.2222)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="4.568" y="16" xml:space="preserve">Shankar</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="4192202e-19" y="35.46411" xml:space="preserve">Jaikishen</tspan>
@@ -265,14 +266,14 @@
         </text>
       </g>
       <g id="Graphic_100">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
+        <a xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
           <text transform="translate(827.1761 338.72922)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Cuckoo</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_101">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Prem_Nath">
+        <a xl:href="https://en.wikipedia.org/wiki/Prem_Nath">
           <text transform="translate(940.5407 338.72922)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="31974423e-20" y="16" xml:space="preserve">Prem Nath</tspan>
           </text>
@@ -297,7 +298,7 @@
         </text>
       </g>
       <g id="Graphic_106">
-        <a target="_blank" xl:href="https://shankarjaikishan.wordpress.com/2016/05/02/ramesh-shastry-the-lyricist-of-hawa-mein-udta-jaye-in-barsaat/">
+        <a xl:href="https://shankarjaikishan.wordpress.com/2016/05/02/ramesh-shastry-the-lyricist-of-hawa-mein-udta-jaye-in-barsaat/">
           <text transform="translate(841.3641 436.64986)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Helen</tspan>
           </text>
