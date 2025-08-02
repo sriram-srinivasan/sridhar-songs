@@ -9,11 +9,11 @@
     </marker>
   </defs>
   <g id="Canvas_1" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
-    <title>Canvas 1</title>
+
     <g id="Canvas_1_Layer_1">
-      <title>Layer 1</title>
+
       <g id="Graphic_56">
-        <a xl:href="https://en.wikipedia.org/wiki/Barsaat_(1949_film)">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Barsaat_(1949_film)">
           <text transform="translate(271.89462 288.0904)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Samadhi</tspan>
             <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="19.61" y="29.46411" xml:space="preserve">(1950)</tspan>
@@ -22,7 +22,7 @@
       </g>
       <g id="Graphic_55">
         <title>Gore Gore</title>
-        <a xl:href="https://www.youtube.com/watch?v=WkErlBw-8_k">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=WkErlBw-8_k">
           <rect x="629.76325" y="294.2304" width="212.496" height="19.464111" fill="yellow"/>
           <text transform="translate(629.76325 294.2304)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Gore Gore, O Baanke Chore</tspan>
@@ -31,18 +31,18 @@
       </g>
       <g id="Group_52">
         <g id="Graphic_54">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 624.7605 298.02507 C 624.41195 296.9631 623.3884 296.12852 622.086 295.84424 C 619.7279 295.32848 610.26755 295.32848 610.26755 295.32848 C 610.26755 295.32848 600.80734 295.32848 598.4491 295.84424 C 597.14676 296.12852 596.1233 296.9631 595.77466 298.02507 C 595.14215 299.948 595.14215 303.96245 595.14215 303.96245 C 595.14215 303.96245 595.14215 307.9769 595.77466 309.89986 C 596.1233 310.96184 597.14676 311.7964 598.4491 312.08063 C 600.80734 312.59642 610.26755 312.59642 610.26755 312.59642 C 610.26755 312.59642 619.7279 312.59642 622.086 312.08063 C 623.3884 311.7964 624.41195 310.96184 624.7605 309.89986 C 625.3931 307.9769 625.3931 303.96245 625.3931 303.96245 C 625.3931 303.96245 625.3905 299.948 624.7605 298.02507 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_53">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 607.2396 307.66245 L 615.0987 303.9628 L 607.2396 300.26308 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_51">
-        <a xl:href="https://en.wikipedia.org/wiki/Ramesh_Saigal">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Ramesh_Saigal">
           <text transform="translate(251.90462 157.73675)" fill="#080809">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="15" fill="#080809" x="0" y="15" xml:space="preserve">Ramesh Saigal</tspan>
           </text>
@@ -58,7 +58,7 @@
         </text>
       </g>
       <g id="Graphic_48">
-        <a xl:href="https://en.wikipedia.org/wiki/Ashok_Kumar">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Ashok_Kumar">
           <text transform="translate(251.90462 427.81767)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Ashok Kumar</tspan>
           </text>
@@ -74,7 +74,7 @@
         </text>
       </g>
       <g id="Graphic_45">
-        <a xl:href="https://en.wikipedia.org/wiki/Rajendra_Krishan">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Rajendra_Krishan">
           <text transform="translate(704.01925 418.0856)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="18829382e-20" y="16" xml:space="preserve">Rajinder</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.664" y="35.46411" xml:space="preserve">Krishan</tspan>
@@ -82,7 +82,7 @@
         </a>
       </g>
       <g id="Graphic_44">
-        <a xl:href="https://en.wikipedia.org/wiki/Amirbai_Karnataki">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Amirbai_Karnataki">
           <text transform="translate(698.98725 137.24363)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7.576" y="16" xml:space="preserve">Amirbai</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="35.46411" xml:space="preserve">Karnataki</tspan>
@@ -109,7 +109,7 @@
         </text>
       </g>
       <g id="Graphic_39">
-        <a xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
           <text transform="translate(547.9763 156.70775)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="21316282e-20" y="16" xml:space="preserve">Lata Mangeshkar</tspan>
           </text>
@@ -135,7 +135,7 @@
         </text>
       </g>
       <g id="Graphic_13">
-        <a xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
           <text transform="translate(796.3438 156.70775)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">C. Ramachandra</tspan>
           </text>
@@ -151,14 +151,14 @@
         </text>
       </g>
       <g id="Graphic_10">
-        <a xl:href="https://en.wikipedia.org/wiki/Kuldip_Kaur">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Kuldip_Kaur">
           <text transform="translate(791.3286 422.61947)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="37658765e-20" y="16" xml:space="preserve">Kulip Kaur</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_9">
-        <a xl:href="https://en.wikipedia.org/wiki/Nalini_Jaywant">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Nalini_Jaywant">
           <text transform="translate(422.6903 427.81767)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="4973799e-20" y="16" xml:space="preserve">Nalini Jaywant</tspan>
           </text>
@@ -233,7 +233,7 @@
       <g id="Graphic_68">
         <title>Patanga
 (1949)</title>
-        <a xl:href="https://www.youtube.com/watch?v=MSuBDKzCBJQ">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=MSuBDKzCBJQ">
           <text transform="translate(629.76325 597.10845)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Ayya sami, Avoji Sami</tspan>
           </text>
@@ -241,18 +241,18 @@
       </g>
       <g id="Group_65">
         <g id="Graphic_67">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 624.7605 602.0012 C 624.41195 600.9392 623.3884 600.10466 622.086 599.8204 C 619.7279 599.3046 610.26755 599.3046 610.26755 599.3046 C 610.26755 599.3046 600.80734 599.3046 598.4491 599.8204 C 597.14676 600.10466 596.1233 600.9392 595.77466 602.0012 C 595.14215 603.92416 595.14215 607.9386 595.14215 607.9386 C 595.14215 607.9386 595.14215 611.95304 595.77466 613.876 C 596.1233 614.938 597.14676 615.77254 598.4491 616.0568 C 600.80734 616.57256 610.26755 616.57256 610.26755 616.57256 C 610.26755 616.57256 619.7279 616.57256 622.086 616.0568 C 623.3884 615.77254 624.41195 614.938 624.7605 613.876 C 625.3931 611.95304 625.3931 607.9386 625.3931 607.9386 C 625.3931 607.9386 625.3905 603.92416 624.7605 602.0012 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_66">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 609.2396 611.6386 L 617.0987 607.9389 L 609.2396 604.2392 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_69">
-        <a xl:href="https://en.wikipedia.org/wiki/M._L._Vasanthakumari">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/M._L._Vasanthakumari">
           <text transform="translate(638.8333 716.3079)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">M L Vasanthakumari</tspan>
           </text>

@@ -9,11 +9,11 @@
     </marker>
   </defs>
   <g id="Canvas_1" fill-opacity="1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1">
-    <title>Canvas 1</title>
+
     <g id="Canvas_1_Layer_1">
-      <title>Layer 1</title>
+
       <g id="Graphic_64">
-        <a xl:href="https://en.wikipedia.org/wiki/Kali_Ghata_(1951_film)">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Kali_Ghata_(1951_film)">
           <text transform="translate(386.4755 228.4107)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5684342e-20" y="16" xml:space="preserve">Kali Ghata</tspan>
             <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="25.826" y="29.46411" xml:space="preserve">(1951)</tspan>
@@ -22,7 +22,7 @@
       </g>
       <g id="Graphic_63">
         <title>Dil mein tu</title>
-        <a xl:href="https://www.youtube.com/watch?v=IvaGKvwxGRI">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=IvaGKvwxGRI">
           <rect x="695.2914" y="233.62775" width="212.912" height="19.464111" fill="yellow"/>
           <text transform="translate(695.2914 233.62775)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="14210855e-20" y="16" xml:space="preserve">Dil mein tu, mere dil mein tu</tspan>
@@ -31,18 +31,18 @@
       </g>
       <g id="Group_60">
         <g id="Graphic_62">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 673.7148 238.5205 C 673.36626 237.45852 672.3427 236.62396 671.0403 236.33968 C 668.6822 235.82392 659.22186 235.82392 659.22186 235.82392 C 659.22186 235.82392 649.76165 235.82392 647.4034 236.33968 C 646.1011 236.62396 645.0776 237.45852 644.729 238.5205 C 644.09646 240.44345 644.09645 244.4579 644.09645 244.4579 C 644.09645 244.4579 644.09646 248.47234 644.729 250.3953 C 645.0776 251.45728 646.1011 252.29184 647.4034 252.57607 C 649.76165 253.09186 659.22186 253.09186 659.22186 253.09186 C 659.22186 253.09186 668.6822 253.09186 671.0403 252.57607 C 672.3427 252.29184 673.36626 251.45728 673.7148 250.3953 C 674.3474 248.47234 674.3474 244.4579 674.3474 244.4579 C 674.3474 244.4579 674.3448 240.44345 673.7148 238.5205 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_61">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 656.1939 248.1579 L 664.053 244.45823 L 656.1939 240.75852 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_58">
-        <a xl:href="https://en.wikipedia.org/wiki/Kishore_Sahu">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Kishore_Sahu">
           <text transform="translate(375.1875 98.05706)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5186962e-19" y="16" xml:space="preserve">Kishore Sahu</tspan>
           </text>
@@ -60,7 +60,7 @@
       </g>
       <g id="Graphic_55">
         <title/>
-        <a xl:href="https://en.wikipedia.org/wiki/Bina_Rai">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Bina_Rai">
           <text transform="translate(393.6965 350.85394)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x=".627" y="16" xml:space="preserve">Bina Rai</tspan>
             <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="50448534e-20" y="29.46411" xml:space="preserve">(Krishna Sarin)</tspan>
@@ -77,7 +77,7 @@
         </text>
       </g>
       <g id="Graphic_22">
-        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
           <text transform="translate(627.20845 354.5692)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Hasrat Jaipuri</tspan>
           </text>
@@ -93,7 +93,7 @@
         </text>
       </g>
       <g id="Graphic_66">
-        <a xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
           <text transform="translate(614.30445 102.95426)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="21316282e-20" y="16" xml:space="preserve">Lata Mangeshkar</tspan>
           </text>
@@ -118,7 +118,7 @@
         </text>
       </g>
       <g id="Graphic_97">
-        <a xl:href="https://en.wikipedia.org/wiki/Shankar%E2%80%93Jaikishan">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Shankar%E2%80%93Jaikishan">
           <text transform="translate(890.384 93.2222)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="4.568" y="16" xml:space="preserve">Shankar</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="4192202e-19" y="35.46411" xml:space="preserve">Jaikishen</tspan>
@@ -135,7 +135,7 @@
         </text>
       </g>
       <g id="Graphic_100">
-        <a xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Cuckoo_Moray">
           <text transform="translate(772.7074 354.5692)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Cuckoo</tspan>
           </text>

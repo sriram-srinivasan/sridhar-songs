@@ -9,11 +9,11 @@
     </marker>
   </defs>
   <g id="Canvas_1" fill-opacity="1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1">
-    <title>Canvas 1</title>
+
     <g id="Canvas_1_Layer_1">
-      <title>Layer 1</title>
+
       <g id="Graphic_64">
-        <a xl:href="https://www.imdb.com/title/tt0215983/">
+        <a target="_blank" xl:href="https://www.imdb.com/title/tt0215983/">
           <text transform="translate(268.9297 214.58809)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8242296e-19" y="16" xml:space="preserve">Meenar</tspan>
             <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="15.178" y="29.46411" xml:space="preserve">(1954)</tspan>
@@ -22,7 +22,7 @@
       </g>
       <g id="Graphic_63">
         <title>Tirchi Nazar Hai</title>
-        <a xl:href="https://www.youtube.com/watch?v=g-i9_ORUXZ0&amp;t=69s">
+        <a target="_blank" xl:href="https://www.youtube.com/watch?v=g-i9_ORUXZ0&amp;t=69s">
           <rect x="695.9481" y="222.34452" width="233.65212" height="19.464111" fill="yellow"/>
           <text transform="translate(695.9481 222.34452)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="12.674057" y="16" xml:space="preserve">Shama Pe Aake O Parwane</tspan>
@@ -31,18 +31,18 @@
       </g>
       <g id="Group_60">
         <g id="Graphic_62">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 695.1317 227.23728 C 694.78315 226.1753 693.7596 225.34073 692.4572 225.05645 C 690.0991 224.54068 680.63875 224.54068 680.63875 224.54068 C 680.63875 224.54068 671.1785 224.54068 668.8203 225.05645 C 667.51795 225.34073 666.4945 226.1753 666.14585 227.23728 C 665.51334 229.16022 665.51334 233.17466 665.51334 233.17466 C 665.51334 233.17466 665.51334 237.1891 666.14585 239.11207 C 666.4945 240.17404 667.51795 241.0086 668.8203 241.29283 C 671.1785 241.80863 680.63875 241.80863 680.63875 241.80863 C 680.63875 241.80863 690.0991 241.80863 692.4572 241.29283 C 693.7596 241.0086 694.78315 240.17404 695.1317 239.11207 C 695.7643 237.1891 695.7643 233.17466 695.7643 233.17466 C 695.7643 233.17466 695.7617 229.16022 695.1317 227.23728 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_61">
-          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 677.6108 236.87466 L 685.4699 233.175 L 677.6108 229.47528 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_58">
-        <a xl:href="https://en.wikipedia.org/wiki/Hemen_Gupta">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Hemen_Gupta">
           <text transform="translate(245.00118 105.04234)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5115908e-19" y="16" xml:space="preserve">Hemen Gupta</tspan>
           </text>
@@ -58,7 +58,7 @@
         </text>
       </g>
       <g id="Graphic_22">
-        <a xl:href="https://en.wikipedia.org/wiki/Rajendra_Krishan">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Rajendra_Krishan">
           <text transform="translate(850.0723 349.1608)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="18829382e-20" y="16" xml:space="preserve">Rajinder</tspan>
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.664" y="35.46411" xml:space="preserve">Krishan</tspan>
@@ -75,7 +75,7 @@
         </text>
       </g>
       <g id="Graphic_66">
-        <a xl:href="https://en.wikipedia.org/wiki/Asha_Bhosle">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Asha_Bhosle">
           <text transform="translate(664.15334 107.75686)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Asha Bhosle</tspan>
           </text>
@@ -100,7 +100,7 @@
         </text>
       </g>
       <g id="Graphic_97">
-        <a xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
+        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
           <text transform="translate(820.4403 107.75686)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">C Ramachandra</tspan>
           </text>
@@ -119,7 +119,7 @@
         <line x1="263.9297" y1="211.90832" x2="264.58338" y2="214.569" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_198">
-        <a xl:href="https://www.imdb.com/name/nm1518829/">
+        <a target="_blank" xl:href="https://www.imdb.com/name/nm1518829/">
           <text transform="translate(652.28134 349.1608)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Heera Sawant</tspan>
           </text>
@@ -240,7 +240,7 @@
         </text>
       </g>
       <g id="Graphic_246">
-        <a xl:href="https://www.imdb.com/name/nm0474900/">
+        <a target="_blank" xl:href="https://www.imdb.com/name/nm0474900/">
           <text transform="translate(504.20984 349.1608)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Surya Kumar</tspan>
           </text>
