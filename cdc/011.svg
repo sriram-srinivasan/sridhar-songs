@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="223.22788 19.03067 701.4942 386.06577" width="701.4942" height="386.06577">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="223.22788 19.03067 701.4942 386.06577" width="701.4942" height="386.06577">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -18,19 +18,19 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill-opacity="1">
-
+  <g id="Canvas_1" fill-opacity="1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
-
+      <title>Layer 1</title>
       <g id="Graphic_57">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
+        <a xl:href="https://en.wikipedia.org/wiki/Guru_Dutt">
           <text transform="translate(377.8364 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7247536e-19" y="16" xml:space="preserve">Guru Dutt</tspan>
           </text>
         </a>
       </g>
       <g id="Graphic_53">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Baazi_(1951_film)">
+        <a xl:href="https://en.wikipedia.org/wiki/Baazi_(1951_film)">
           <text transform="translate(327.89894 156.34493)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Baazi</tspan>
             <tspan font-family="Helvetica Neue" font-size="13" fill="black" x="3.209" y="31.46411" xml:space="preserve">(1951)</tspan>
@@ -41,7 +41,7 @@
         <line x1="408.08" y1="48.49478" x2="361.39347" y2="147.3662" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_37">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Geeta_Bali">
+        <a xl:href="https://en.wikipedia.org/wiki/Geeta_Bali">
           <text transform="translate(588.01956 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="14.4565" y="16" xml:space="preserve">Geeta Bali</tspan>
             <tspan font-family="Helvetica Neue" font-style="italic" font-size="13" fill="black" x="2842171e-20" y="31.46411" xml:space="preserve">née Harkirtan Kaur</tspan>
@@ -52,7 +52,7 @@
         <line x1="667.6649" y1="276.11887" x2="765.7822" y2="191.36724" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_26">
-        <a target="_blank" xl:href="https://www.youtube.com/watch?v=MF7EhAB0um8">
+        <a xl:href="https://www.youtube.com/watch?v=MF7EhAB0um8">
           <rect x="647.6126" y="159.02693" width="277.10947" height="29.46411" fill="#ffff40"/>
           <text transform="translate(652.6126 164.02693)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="52.794733" y="16" xml:space="preserve">Suno Gajar Kya Gaye</tspan>
@@ -63,7 +63,7 @@
         <line x1="374.96294" y1="173.75899" x2="608.8578" y2="173.75899" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_20">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
+        <a xl:href="https://en.wikipedia.org/wiki/S._D._Burman">
           <text transform="translate(804.5166 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">S D Burman</tspan>
           </text>
@@ -79,7 +79,7 @@
         </text>
       </g>
       <g id="Graphic_11">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Lata_Mangeshkar">
+        <a xl:href="https://en.wikipedia.org/wiki/Geeta_Dutt">
           <text transform="translate(623.7578 24.03067)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Geeta Roy</tspan>
           </text>
@@ -116,18 +116,18 @@
       </g>
       <g id="Group_2">
         <g id="Graphic_4">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 642.9094 167.82161 C 642.6251 166.75962 641.7905 165.92506 640.7285 165.64078 C 638.8056 165.12502 631.09144 165.12502 631.09144 165.12502 C 631.09144 165.12502 623.37735 165.12502 621.4544 165.64078 C 620.3924 165.92506 619.55786 166.75962 619.2736 167.82161 C 618.7578 169.74455 618.7578 173.75899 618.7578 173.75899 C 618.7578 173.75899 618.7578 177.77344 619.2736 179.6964 C 619.55786 180.75838 620.3924 181.59294 621.4544 181.87717 C 623.37735 182.39296 631.09144 182.39296 631.09144 182.39296 C 631.09144 182.39296 638.8056 182.39296 640.7285 181.87717 C 641.7905 181.59294 642.6251 180.75838 642.9094 179.6964 C 643.42516 177.77344 643.42516 173.75899 643.42516 173.75899 C 643.42516 173.75899 643.4231 169.74455 642.9094 167.82161 Z" fill="red"/>
           </a>
         </g>
         <g id="Graphic_3">
-          <a target="_blank" xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
             <path d="M 628.6224 177.459 L 635.0309 173.75933 L 628.6224 170.05962 Z" fill="white"/>
           </a>
         </g>
       </g>
       <g id="Graphic_58">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
+        <a xl:href="https://en.wikipedia.org/wiki/Dev_Anand">
           <text transform="translate(307.57894 272.27903)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="7744916e-19" y="16" xml:space="preserve">Dev Anand</tspan>
           </text>
@@ -144,7 +144,7 @@
         </text>
       </g>
       <g id="Graphic_63">
-        <a target="_blank" xl:href="https://en.wikipedia.org/wiki/Sahir_Ludhianvi">
+        <a xl:href="https://en.wikipedia.org/wiki/Sahir_Ludhianvi">
           <text transform="translate(727.4953 281.11887)" fill="black">
             <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="47606363e-20" y="16" xml:space="preserve">Sahir Ludhianvi</tspan>
           </text>
@@ -196,7 +196,7 @@
         <line x1="597.2955" y1="320.94698" x2="490.83367" y2="374.6663" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_84">
-        <a target="_blank" xl:href="https://youtu.be/lJUiEKox6Rw?t=1305">
+        <a xl:href="https://youtu.be/lJUiEKox6Rw?t=1305">
           <rect x="513.2217" y="325.36094" width="70" height="40.696167" fill="white"/>
           <text transform="translate(518.2217 330.36094)" fill="black">
             <tspan font-family="Helvetica Neue" font-style="italic" font-weight="bold" font-size="12" fill="black" x="1.668" y="12" xml:space="preserve">hauled on </tspan>

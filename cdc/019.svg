@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-123.58672 -21.783404 1072.275 414.87244" width="1072.275" height="414.87244">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 2.5 0 L -1.5 -1.5 L 0 0 L 0 0 L -1.5 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill-opacity="1" fill="none" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_64">
+        <a xl:href="https://www.imdb.com/title/tt0215983/">
+          <text transform="translate(268.9297 214.58809)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="8242296e-19" y="16" xml:space="preserve">Meenar</tspan>
+            <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="15.178" y="29.46411" xml:space="preserve">(1954)</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_63">
+        <title>Tirchi Nazar Hai</title>
+        <a xl:href="https://www.youtube.com/watch?v=g-i9_ORUXZ0&amp;t=69s">
+          <rect x="695.9481" y="222.34452" width="233.65212" height="19.464111" fill="yellow"/>
+          <text transform="translate(695.9481 222.34452)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="12.674057" y="16" xml:space="preserve">Shama Pe Aake O Parwane</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Group_60">
+        <g id="Graphic_62">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 695.1317 227.23728 C 694.78315 226.1753 693.7596 225.34073 692.4572 225.05645 C 690.0991 224.54068 680.63875 224.54068 680.63875 224.54068 C 680.63875 224.54068 671.1785 224.54068 668.8203 225.05645 C 667.51795 225.34073 666.4945 226.1753 666.14585 227.23728 C 665.51334 229.16022 665.51334 233.17466 665.51334 233.17466 C 665.51334 233.17466 665.51334 237.1891 666.14585 239.11207 C 666.4945 240.17404 667.51795 241.0086 668.8203 241.29283 C 671.1785 241.80863 680.63875 241.80863 680.63875 241.80863 C 680.63875 241.80863 690.0991 241.80863 692.4572 241.29283 C 693.7596 241.0086 694.78315 240.17404 695.1317 239.11207 C 695.7643 237.1891 695.7643 233.17466 695.7643 233.17466 C 695.7643 233.17466 695.7617 229.16022 695.1317 227.23728 Z" fill="red"/>
+          </a>
+        </g>
+        <g id="Graphic_61">
+          <a xl:href="https://www.youtube.com/watch?v=cbErQRZZNKY">
+            <path d="M 677.6108 236.87466 L 685.4699 233.175 L 677.6108 229.47528 Z" fill="white"/>
+          </a>
+        </g>
+      </g>
+      <g id="Graphic_58">
+        <a xl:href="https://en.wikipedia.org/wiki/Hemen_Gupta">
+          <text transform="translate(245.00118 105.04234)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="5115908e-19" y="16" xml:space="preserve">Hemen Gupta</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_57">
+        <line x1="297.4412" y1="129.50645" x2="297.797" y2="205.18813" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_56">
+        <rect x="265.78743" y="150.14631" width="63.616" height="24.335999" fill="white"/>
+        <text transform="translate(270.78743 155.14631)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5.5860006" y="11" xml:space="preserve">Director</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <a xl:href="https://en.wikipedia.org/wiki/Rajendra_Krishan">
+          <text transform="translate(850.0723 349.1608)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="18829382e-20" y="16" xml:space="preserve">Rajinder</tspan>
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="2.664" y="35.46411" xml:space="preserve">Krishan</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_18">
+        <line x1="869.6502" y1="344.1608" x2="819.7037" y2="245.73236" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="806.6257" y="290.308" width="83.744" height="24.335999" fill="white"/>
+        <text transform="translate(811.6257 295.308)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="19.994002" y="11" xml:space="preserve">lyricist</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <a xl:href="https://en.wikipedia.org/wiki/Asha_Bhosle">
+          <text transform="translate(664.15334 107.75686)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Asha Bhosle</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_67">
+        <line x1="724.6993" y1="132.22097" x2="801.2798" y2="219.0447" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_68">
+        <rect x="713.894" y="155.27503" width="83.744" height="24.335999" fill="white"/>
+        <text transform="translate(718.894 160.27503)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="20.654002" y="11" xml:space="preserve">singer</tspan>
+        </text>
+      </g>
+      <g id="Line_85">
+        <line x1="665.514" y1="233.057" x2="336.10555" y2="230.49437" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_91">
+        <rect x="499.20984" y="219.7854" width="48.892" height="24.335999" fill="white"/>
+        <text transform="translate(504.20984 224.7854)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">song in</tspan>
+        </text>
+      </g>
+      <g id="Graphic_97">
+        <a xl:href="https://en.wikipedia.org/wiki/C._Ramchandra">
+          <text transform="translate(820.4403 107.75686)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">C Ramachandra</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_98">
+        <line x1="873.1559" y1="132.22097" x2="820.9358" y2="218.57936" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_99">
+        <rect x="808.8311" y="158.40127" width="82.272" height="24.335999" fill="white"/>
+        <text transform="translate(813.8311 163.40127)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="9.250002" y="11" xml:space="preserve">composer</tspan>
+        </text>
+      </g>
+      <g id="Line_117">
+        <line x1="263.9297" y1="211.90832" x2="264.58338" y2="214.569" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_198">
+        <a xl:href="https://www.imdb.com/name/nm1518829/">
+          <text transform="translate(652.28134 349.1608)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Heera Sawant</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_201">
+        <text transform="translate(62.64149 350.5464)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Bharat Bhushan</tspan>
+        </text>
+      </g>
+      <g id="Line_202">
+        <line x1="718.1999" y1="344.1608" x2="801.725" y2="245.17146" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_204">
+        <line x1="138.99893" y1="345.5464" x2="260.41667" y2="253.98148" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_207">
+        <text transform="translate(267.6652 350.5464)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Bina Rai</tspan>
+        </text>
+      </g>
+      <g id="Line_211">
+        <line x1="297.49057" y1="345.5464" x2="297.8024" y2="255.73217" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_227">
+        <g id="Graphic_223">
+          <text transform="translate(-118.58672 87.39065)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Jailed for </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448" xml:space="preserve">Mail Train Robbery,</tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="51.895996" xml:space="preserve">DM’s Murder</tspan>
+          </text>
+        </g>
+        <g id="Graphic_225">
+          <text transform="translate(-118.58672 155.79276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Sec. to Netaji </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448" xml:space="preserve">Subhash Chandra Bose</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_229">
+        <line x1="240.00119" y1="114.7744" x2="27.725274" y2="115.05679" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_230">
+        <rect x="72.44897" y="102.75686" width="108.904" height="24.335999" fill="white"/>
+        <text transform="translate(77.44897 107.75686)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="0" y="11" xml:space="preserve">As freedom fighter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_231">
+        <text transform="translate(251.93943 -16.783404)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Anand Math</tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="10" fill="black" x="29.496" y="28.447998" xml:space="preserve">(1952)</tspan>
+        </text>
+      </g>
+      <g id="Line_232">
+        <line x1="297.4412" y1="100.04234" x2="295.6199" y2="23.353423" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_233">
+        <rect x="264.67085" y="47.353487" width="63.616" height="24.335999" fill="white"/>
+        <text transform="translate(269.67085 52.353487)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="5.5860006" y="11" xml:space="preserve">Director</tspan>
+        </text>
+      </g>
+      <g id="Graphic_234">
+        <text transform="translate(477.0052 -10.63837)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Vande Mataram</tspan>
+        </text>
+      </g>
+      <g id="Line_235">
+        <line x1="472.0052" y1="-1.4143704" x2="348.49143" y2="-1.4143704" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_236">
+        <rect x="377.3586" y="-13.58237" width="63.616" height="24.335999" fill="white"/>
+        <text transform="translate(382.3586 -8.58237)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="7.362001" y="11" xml:space="preserve">song in</tspan>
+        </text>
+      </g>
+      <g id="Graphic_237">
+        <text transform="translate(479.3732 105.5504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15" xml:space="preserve">Hemant Kumar</tspan>
+        </text>
+      </g>
+      <g id="Line_238">
+        <line x1="354.8812" y1="114.7744" x2="469.9732" y2="114.7744" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_239">
+        <rect x="374.0038" y="95.4384" width="77.42994" height="38.671997" fill="white"/>
+        <text transform="translate(379.0038 100.4384)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="4.9269696" y="11" xml:space="preserve">introduced</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="1.5969696" y="25.336" xml:space="preserve">to Hindi film</tspan>
+        </text>
+      </g>
+      <g id="Line_240">
+        <line x1="533.3252" y1="100.5504" x2="533.3252" y2="17.209629" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_241">
+        <rect x="491.4532" y="43.419893" width="83.744" height="24.335999" fill="white"/>
+        <text transform="translate(496.4532 48.419893)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="7.316002" y="11" xml:space="preserve">Composed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_243">
+        <rect x="716.0332" y="284.93626" width="83.744" height="24.335999" fill="white"/>
+        <text transform="translate(721.0332 289.93626)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="18.422002" y="11" xml:space="preserve">dancer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_244">
+        <rect x="173.40843" y="283.4417" width="63.616" height="24.335999" fill="white"/>
+        <text transform="translate(178.40843 288.4417)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="13.92" y="11" xml:space="preserve">Hero</tspan>
+        </text>
+      </g>
+      <g id="Graphic_245">
+        <rect x="265.85918" y="282.51358" width="63.616" height="24.335999" fill="white"/>
+        <text transform="translate(270.85918 287.51358)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="6.0300006" y="11" xml:space="preserve">Heroine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_246">
+        <a xl:href="https://www.imdb.com/name/nm0474900/">
+          <text transform="translate(504.20984 349.1608)" fill="black">
+            <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="0" y="16" xml:space="preserve">Surya Kumar</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_248">
+        <line x1="583.79435" y1="344.1608" x2="788.9404" y2="243.74308" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_249">
+        <rect x="645.89396" y="273.93135" width="83.744" height="38.671997" fill="white"/>
+        <text transform="translate(650.89396 278.93135)" fill="black">
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="2.8640016" y="11" xml:space="preserve">choreograph</tspan>
+          <tspan font-family="Helvetica Neue" font-style="italic" font-size="12" fill="black" x="31.652" y="25.336" xml:space="preserve">er</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

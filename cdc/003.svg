@@ -159,26 +159,20 @@
         <line x1="252.62546" y1="431.64986" x2="252.62546" y2="376.8012" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_77">
-        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
-          <text transform="translate(200.28146 338.72922)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6.456" y="11" xml:space="preserve">Jiya Beqarar Hai,</tspan>
-            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">Chhod Gaye Balam</tspan>
-          </text>
-        </a>
+        <text transform="translate(200.28146 338.72922)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6.456" y="11" xml:space="preserve">Jiya Beqarar Hai,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="25.336" xml:space="preserve">Chhod Gaye Balam</tspan>
+        </text>
       </g>
       <g id="Graphic_78">
-        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
-          <text transform="translate(371.9995 345.89722)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">O Mujhe Kisise Pyar</tspan>
-          </text>
-        </a>
+        <text transform="translate(371.9995 345.89722)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="6252776e-19" y="11" xml:space="preserve">O Mujhe Kisise Pyar</tspan>
+        </text>
       </g>
       <g id="Graphic_79">
-        <a xl:href="https://en.wikipedia.org/wiki/Hasrat_Jaipuri">
-          <text transform="translate(531.94544 345.89722)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="8100187e-19" y="11" xml:space="preserve">Hawa Mein Udta Jaye</tspan>
-          </text>
-        </a>
+        <text transform="translate(531.94544 345.89722)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="8100187e-19" y="11" xml:space="preserve">Hawa Mein Udta Jaye</tspan>
+        </text>
       </g>
       <g id="Line_80">
         <line x1="426.0115" y1="431.64986" x2="426.0115" y2="369.6332" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -298,11 +292,9 @@
         </text>
       </g>
       <g id="Graphic_106">
-        <a xl:href="https://shankarjaikishan.wordpress.com/2016/05/02/ramesh-shastry-the-lyricist-of-hawa-mein-udta-jaye-in-barsaat/">
-          <text transform="translate(841.3641 436.64986)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Helen</tspan>
-          </text>
-        </a>
+        <text transform="translate(841.3641 436.64986)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="black" x="0" y="11" xml:space="preserve">Helen</tspan>
+        </text>
       </g>
       <g id="Line_107">
         <line x1="856.8081" y1="363.19333" x2="856.8081" y2="427.24986" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
